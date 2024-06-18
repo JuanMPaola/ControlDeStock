@@ -1,0 +1,12 @@
+D:\SISTEMAS\Visual Studio Proyectos\Control de Stock\Negocio\bin\Debug\Negocio.dll
+D:\SISTEMAS\Visual Studio Proyectos\Control de Stock\Negocio\bin\Debug\Negocio.pdb
+D:\SISTEMAS\Visual Studio Proyectos\Control de Stock\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\SISTEMAS\Visual Studio Proyectos\Control de Stock\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\Visual Studio Proyectos\Control de Stock\Negocio\obj\Debug\Negocio.dll
+D:\SISTEMAS\Visual Studio Proyectos\Control de Stock\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ln\Desktop\Control de Stock\Negocio\bin\Debug\Negocio.dll
+C:\Users\ln\Desktop\Control de Stock\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ln\Desktop\Control de Stock\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ln\Desktop\Control de Stock\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ln\Desktop\Control de Stock\Negocio\obj\Debug\Negocio.dll
+C:\Users\ln\Desktop\Control de Stock\Negocio\obj\Debug\Negocio.pdb

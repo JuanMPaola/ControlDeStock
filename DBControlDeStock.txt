@@ -1,0 +1,25 @@
+CREATE DATABASE CotrolDeStock2
+
+Go
+
+CREATE Table detalle (
+  id_detalle integer PRIMARY KEY,
+  cantidad integer,
+  id_producto integer REFERENCES detalle(id_detalle)
+
+)
+
+Create Table movimientos (
+  tipo integer PRIMARY KEY,
+  id_detalle integer REFERENCES detalle(id_detalle),
+  fecha timestamp,
+  obsevacion varchar 
+)
+
+CREATE Table producto (
+  id_producto integer PRIMARY KEY,
+  descripcion varchar
+)
+
+--user01
+--Contraseñacompleja01
